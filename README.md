@@ -47,7 +47,7 @@ This assignment includes the following features:
 
 ## Application
 
-[Click Here to Access Responsive Web Page](https://htmlpreview.github.io/?https://github.com/jcwynder/building-a-responsive-and-accessible-web-page/blob/main/index.html)
+[Click Here to Access Responsive and Accessible Web Page](https://htmlpreview.github.io/?https://github.com/jcwynder/building-a-responsive-and-accessible-web-page/blob/main/index.html)
 
 ## Usage
 
